@@ -5,5 +5,4 @@ for (const char of spinnerArray) {
     process.stdout.write(char);
   }, (i * 100));
   i++;
-  // console.log();
 }
